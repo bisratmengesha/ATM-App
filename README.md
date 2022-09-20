@@ -1,7 +1,7 @@
 # ATM-App
 
 # Description
-This is a simple ATM app built using reacT.
+This is a simple ATM app built using react.
 # How to run
 Upload all files and launch the html file on your localhost server.
 # Roadmap of future improvements
